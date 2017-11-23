@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mahef.org/</loc>
+    <loc>https://raazoor.github.io/RaZoR/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mahef.org/categories/</loc>
+    <loc>https://raazoor.github.io/RaZoR/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mahef.org/tags/</loc>
+    <loc>https://raazoor.github.io/RaZoR/tags/</loc>
     <priority>0</priority>
   </url>
   

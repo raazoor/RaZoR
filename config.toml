@@ -1,4 +1,4 @@
-baseURL = "http://mahef.org/"
+baseURL = "https://raazoor.github.io/RaZoR/"
 languageCode = "en-us"
 title = "Blog"
 theme = "ananke"
