@@ -12,7 +12,7 @@ Mercredi 22 novembre : Aujourd’hui, j’ai appris quelque branche du métier d
 
 - Voici un rapide schéma
 
-![Schéma 1](/images/schema 1.jpg)
-![Schéma 2](/images/schema 2.jpg)
+![Schéma 1](/images/Schema 1.jpg)
+![Schéma 2](/images/Schema 2.jpg)
 
 Mais encore, comment ils mettent à jour un site web, en passant par les serveurs puis pour implanter les mises à jour, mais aussi comment sont traité les demandes du clients sur son site web grâce au logiciel mantis bug tracker. Ce logiciel sert à crée des tickets de bug pour traité celui-ci, ce procédé s’appelle le ticketing.
